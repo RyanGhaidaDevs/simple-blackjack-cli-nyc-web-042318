@@ -82,7 +82,7 @@ def runner
 
   display_card_total(x)
 
-  
+
   end
 
 if x > 21
